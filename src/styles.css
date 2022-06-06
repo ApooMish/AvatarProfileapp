@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.site-card-wrapper {
+  padding: 10px;
+}
+.site-card-wrapper .ant-card-body {
+  padding: 0px;
+}

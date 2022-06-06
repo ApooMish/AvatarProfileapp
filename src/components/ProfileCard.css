@@ -1,0 +1,20 @@
+.card-avatar {
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+}
+.profileCard {
+  margin: 10px 0 !important;
+  justify-content: center;
+  border: 1px solid #e8e8e8;
+}
+.avatar-detail {
+  padding: 15px;
+}
+.icon {
+  padding: 5px;
+}
+.Profile-icon {
+  font-size: 16px;
+  color: #595959;
+}
