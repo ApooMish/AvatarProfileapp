@@ -31,7 +31,7 @@ const ProfileCard = (props) => {
       <div className="card-detail">
         <div className="card-avatar">
           <img
-            src={`https://avatars.dicebear.com/v2/avataaars/${name}.svg?options[mood][]=happy`}
+            src={`https://api.dicebear.com/9.x/lorelei/svg?seed=${name}`}
             alt="Avatar"
             width="200"
           />
